@@ -61,6 +61,14 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				electric: '#4ECDC4',
+				golden: '#FFD700',
+				flame: '#FF6B6B',
+				pokemon: {
+					blue: '#4ECDC4',
+					yellow: '#FFD700', 
+					red: '#FF6B6B'
 				}
 			},
 			borderRadius: {
